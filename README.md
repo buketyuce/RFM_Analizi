@@ -4,17 +4,29 @@ müşterilerin davranışları tanımlanacak ve bu davranışlardaki öbeklenmel
 # Veri seti Flo’dan son alışverişlerini 2020 - 2021 yıllarında OmniChannel olarak yapan müşterileringeçmiş alışveriş davranışlarından elde edilen bilgilerden oluşmaktadır
 
 #master_id = Eşsiz müşteri numarası
+
 #order_channel = Alışveriş yapılan platforma ait hangi kanalın kullanıldığı (Android, ios, Desktop, Mobile)
+
 #last_order_channel = En son alışverişin yapıldığı kanal
+
 #first_order_date = Müşterinin yaptığı ilk alışveriş tarihi
+
 #last_order_date = Müşterinin yaptığı son alışveriş tarihi
+
 #last_order_date_online = Müşterinin online platformda yaptığı son alışveriş tarihi
+
 #last_order_date_offline = Müşterinin offline platformda yaptığı son alışveriş tarihi
+
 #order_num_total_ever_online = Müşterinin online platformda yaptığı toplam alışveriş sayısı
+
 #order_num_total_ever_offline = Müşterinin offline'da yaptığı toplam alışveriş sayısı
+
 #customer_value_total_ever_offline = Müşterinin offline alışverişlerinde ödediği toplam ücret
+
 #customer_value_total_ever_online = Müşterinin online alışverişlerinde ödediği toplam ücret
+
 #interested_in_categories_12 = Müşterinin son 12 ayda alışveriş yaptığı kategorilerin liste
+
 
 # Veriye göz attım.
 ![Ekran görüntüsü 2022-04-25 052038](https://user-images.githubusercontent.com/101973346/165010181-4a30da9d-5005-4ac9-a8cd-8e25bd9b9674.png)
